@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceBusPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c80c7ad10c1628892581c92b00c790aab2fddeaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceBusPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceBusPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
