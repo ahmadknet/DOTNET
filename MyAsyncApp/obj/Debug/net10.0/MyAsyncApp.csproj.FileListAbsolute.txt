@@ -1,0 +1,15 @@
+E:\DOTNET\MyAsyncApp\bin\Debug\net10.0\MyAsyncApp.exe
+E:\DOTNET\MyAsyncApp\bin\Debug\net10.0\MyAsyncApp.deps.json
+E:\DOTNET\MyAsyncApp\bin\Debug\net10.0\MyAsyncApp.runtimeconfig.json
+E:\DOTNET\MyAsyncApp\bin\Debug\net10.0\MyAsyncApp.dll
+E:\DOTNET\MyAsyncApp\bin\Debug\net10.0\MyAsyncApp.pdb
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\MyAsyncApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\MyAsyncApp.AssemblyInfoInputs.cache
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\MyAsyncApp.AssemblyInfo.cs
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\MyAsyncApp.csproj.CoreCompileInputs.cache
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\MyAsyncApp.sourcelink.json
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\MyAsyncApp.dll
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\refint\MyAsyncApp.dll
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\MyAsyncApp.pdb
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\MyAsyncApp.genruntimeconfig.cache
+E:\DOTNET\MyAsyncApp\obj\Debug\net10.0\ref\MyAsyncApp.dll
